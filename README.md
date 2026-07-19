@@ -51,19 +51,13 @@
 
 ## Tooling
 
-<p>
-  <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/ChromaDB-1a1a2e?style=flat-square" alt="ChromaDB">
-  <img src="https://img.shields.io/badge/llama.cpp-1a1a2e?style=flat-square" alt="llama.cpp">
-  <img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=flat-square" alt="Streamlit">
-  <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square" alt="Next.js">
-  <img src="https://img.shields.io/badge/NLP-1a1a2e?style=flat-square" alt="NLP">
-  <img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square" alt="scikit-learn">
-  <img src="https://img.shields.io/badge/pandas-1a1a2e?style=flat-square" alt="pandas">
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=redsandr&show_icons=true&hide=contribs&count_private=true&hide_border=true&bg_color=1a1a2e&text_color=d4d4d4&icon_color=d4af37&title_color=d4af37" width="480" alt="GitHub stats">
-</p>
+<!-- Badge List -->
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/ChromaDB-white?logo=chromadb&logoColor=black" alt="ChromaDB">
+<img src="https://img.shields.io/badge/llama.cpp-000000?logo=llama.cpp&logoColor=white" alt="llama.cpp">
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
+<img src="https://img.shields.io/badge/NLP-blue?logo=google-scholar&logoColor=white" alt="NLP">
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn">
+<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
