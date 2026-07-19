@@ -51,13 +51,4 @@
 
 ## Tooling
 
-<!-- Badge List -->
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/ChromaDB-white?logo=chromadb&logoColor=black" alt="ChromaDB">
-<img src="https://img.shields.io/badge/llama.cpp-000000?logo=llama.cpp&logoColor=white" alt="llama.cpp">
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit">
-<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" alt="Next.js">
-<img src="https://img.shields.io/badge/NLP-blue?logo=google-scholar&logoColor=white" alt="NLP">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas">
-<img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white" alt="Streamlit"> <img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white" alt="scikit-learn"> <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"> <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" alt="NumPy">
