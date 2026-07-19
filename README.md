@@ -1,56 +1,70 @@
-<!-- Header -->
-<div align="center">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+    <img src="assets/banner-light.svg" width="640" alt="Rihhadatul Aimi — NLP &amp; Behavioral Finance AI">
+  </picture>
+</p>
 
-```
-╔══════════════════════════════════════════════════════════╗
-║   building machines that understand how humans decide.   ║
-╚══════════════════════════════════════════════════════════╝
-```
+<p align="center">
+  <b>Building grounded NLP systems for financial decision intelligence.</b>
+</p>
 
-# Rihhadatul Aimi
-**`Independent Researcher · NLP & Behavioral Finance AI`**
-
-*Studying the gap between rational models and real investor behavior in the Indonesian retail market.*
-
-</div>
-
----
-
-### about
-
-I build domain-specific NLP systems to detect cognitive biases in financial text — FOMO, loss aversion, confirmation bias.
-
-Currently focused on:
-- **Cognitive bias detection** in Indonesian retail investor discourse
-- **Behavioral finance** meets computational linguistics
-- Building lightweight, interpretable models that outperform large general-purpose LLMs on domain-specific tasks
+<p align="center">
+  <a href="https://rag-variance-explainer.vercel.app">🌐 Landing</a> ·
+  <a href="https://github.com/redsandr/rag-variance-explainer">📦 RAG Variance Explainer</a> ·
+  <a href="https://github.com/redsandr/cognifi">🧠 Cognifi</a> ·
+  <a href="mailto:rihhadatul00@gmail.com">✉️ Email</a>
+</p>
 
 ---
 
-### projects
+## Featured Project
 
-| project | what it does | stack |
-|---|---|---|
-| [**cognifi**](https://github.com/redsandr/cognifi) | Rule-based NLP for real-time cognitive bias detection in Indonesian investor text. 94.7% accuracy, outperforms Gemini 3 Flash by 18.3pp. | Python, NLP |
-| [**Sebastianisme**](https://github.com/redsandr/Sebastianisme) | A thinking framework for challenging objective reality, rejecting dogma and systemic bias. | — |
+### <a href="https://github.com/redsandr/rag-variance-explainer"><code>rag-variance-explainer</code></a>
 
----
+**A multi-sector financial RAG pipeline that answers "why did this metric move?" from real SEC 10-K/10-Q filings — with every claim cited to the exact page.**
 
-### tools
+| Metric | Value |
+|--------|-------|
+| recall@10 | **0.81** |
+| MRR | **0.54** |
+| Faithfulness (restaurant) | **74.24%** strict |
+| Companies indexed | **7** (4 sectors) |
+| Chunks / Filings | **1,079 / 56** |
+| Retrieval gaps | **0** |
 
-![Python](https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-1a1a2e?style=flat-square&logo=spacy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white)
-![pandas](https://img.shields.io/badge/pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-1a1a2e?style=flat-square&logo=jupyter&logoColor=white)
+**What makes it different:** Most RAG demos work on one domain. This one was built and tested to generalize across restaurant, retail, healthcare, and energy — with zero per-sector tuning. Full ablation study, LLM-as-judge eval, and 40 passing tests in CI.
 
----
-
-### reach
-
-<a href="https://www.threads.net/@seba.minds">![Threads](https://img.shields.io/badge/@seba.minds-1a1a2e?style=flat-square&logo=threads&logoColor=white)</a>
-<a href="mailto:rihhadatul00@gmail.com">![Email](https://img.shields.io/badge/rihhadatul00@gmail.com-1a1a2e?style=flat-square&logo=gmail&logoColor=white)</a>
+> `local RAG pipeline · cross-encoder re-ranking · query expansion · Qwen2.5-7B-Instruct · ChromaDB · Streamlit · Next.js`
 
 ---
 
-</div>
+## All Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**RAG Variance Explainer**](https://github.com/redsandr/rag-variance-explainer) | Multi-sector financial RAG — ask why a metric changed, get a sourced answer | Python, ChromaDB, llama.cpp, Streamlit, Next.js |
+| [**Cognifi**](https://github.com/redsandr/cognifi) | Rule-based NLP for real-time cognitive bias detection in Indonesian investor text. 94.7% accuracy (+18.3pp over Gemini 3 Flash) | Python, NLP |
+| [**Sebastianisme**](https://github.com/redsandr/Sebastianisme) | A thinking framework — challenging objective reality, rejecting dogma and systemic bias | — |
+
+---
+
+## Tooling
+
+<p>
+  <img src="https://img.shields.io/badge/Python-1a1a2e?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/ChromaDB-1a1a2e?style=flat-square&logo=chroma&logoColor=white" alt="ChromaDB">
+  <img src="https://img.shields.io/badge/llama.cpp-1a1a2e?style=flat-square&logo=c%2B%2B&logoColor=white" alt="llama.cpp">
+  <img src="https://img.shields.io/badge/Streamlit-1a1a2e?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit">
+  <img src="https://img.shields.io/badge/Next.js-1a1a2e?style=flat-square&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/NLP-1a1a2e?style=flat-square&logo=spacy&logoColor=white" alt="NLP/spaCy">
+  <img src="https://img.shields.io/badge/scikit--learn-1a1a2e?style=flat-square&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/pandas-1a1a2e?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
+  <img src="https://img.shields.io/badge/Docker-1a1a2e?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+</p>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redsandr&show_icons=true&hide_title=true&count_private=true&hide_border=true&bg_color=0c0c0f&text_color=8a8a8a&icon_color=d4af37" width="480" alt="GitHub stats">
+</p>
